@@ -1,1 +1,2 @@
 # MagneticFields
+  x^{2}
